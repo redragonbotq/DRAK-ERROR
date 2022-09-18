@@ -37,7 +37,7 @@ LATEST VERSION (2022-10-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="https://imgflip.com/gif/6tswjt" alt="nz" width="350"/>
 
 </p>
 
@@ -97,7 +97,7 @@ Recommended WhatsApp👇
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/94740203415"><img src="https://imgflip.com/gif/6tswjt" width="100"/>
 </p>
 
 </details>
@@ -132,13 +132,13 @@ Recommended WhatsApp👇
 
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HANSAMALA/DRAK ERROR -Bot-Qr-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@/DRAK ERROR -Bot-Qr-Code?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`@adiwajshing/baileys`](https://imgflip.com/gif/6tswjt)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
+* [`DGXeon`](https://imgflip.com/gif/6tswjt)
 * [`AflahXrd`](https://github.com/nexusNw)
