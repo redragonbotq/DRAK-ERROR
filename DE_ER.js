@@ -1,0 +1,5 @@
+module.exports = {
+   DRAK_ERROR_OWNER: '94740203415', // MR.Hansamala - DRAK ERROR Owner
+   DRAK_QUEEN_TEAM: '94740203415,94768705106', // Team - DRAK ERROR TEAM 
+   DRAK_AMDI_OWNER: '94740203415' // DRAK ERROR - DRAK ERROR Owner --> For The Friendship 
+    } 
